@@ -1,4 +1,3 @@
-@'
 # Interaction Ledger
 
 A Python-based, SQLite-backed ingestion and reporting pipeline for the Agentic Universe Junior SDE Assignment A.
